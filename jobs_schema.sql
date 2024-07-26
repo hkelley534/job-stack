@@ -1,0 +1,6 @@
+CREATE TABLE jobs (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    title VARCHAR(255) NOT NULL,
+    company TEXT NOT NULL,
+    image_url VARCHAR(255) NOT NULL
+);

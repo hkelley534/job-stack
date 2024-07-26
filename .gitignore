@@ -1,0 +1,10 @@
+__pycache__
+chromedriver/chromedriver*
+.DS_Store
+.vscode
+**.out
+**.log
+**.pyc
+**.db
+jobs.txt
+**.json
